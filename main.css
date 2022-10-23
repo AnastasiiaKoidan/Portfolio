@@ -1,0 +1,1034 @@
+
+.top_container{
+  position: absolute;
+  width: 1920px;
+  height: 85px;
+  left: 0px;
+  top: 0px;
+
+  display: flex;
+
+  background-color: #FFFFFF;
+}
+
+.logo{
+  position: absolute;
+  width: 79.57px;
+  height: 23.04px;
+
+  top: 30.32px;
+  left: 274.97px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/SVG/Logo.svg");
+  background-repeat: no-repeat;
+}
+
+.link{
+  text-decoration: none;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  white-space: nowrap;
+
+  color: #292929;
+}
+
+.navigation{
+  position: absolute;
+  width: 557px;
+  height: 24px;
+  left: 527px;
+  top: 30px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-left: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+
+  list-style-type: none;
+}
+
+.button_block{
+  position: absolute;
+  width: 277px;
+  height: 51px;
+  top: 17px;
+  right: 276px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: row;
+  gap: 85px;
+}
+
+#sign_in{
+  padding-top: 13px;
+  weight: 400px;
+}
+
+#start_trial{
+  padding-top: 13px;
+}
+
+#trial{
+  padding: 13px 50px 13px 50px;
+  background: #01996D;
+  border-radius: 4px;
+  border: 1px solid #01996D;
+
+  width: 83px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.poster{
+  position: absolute;
+  width: 1920px;
+  height: 895px;
+  top: 85px;
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/background2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.headline{
+
+  width: 440px;
+  height: 384px;
+  margin-left: 275px;
+  margin-top: 260px;
+  margin-bottom: 0;
+  padding-left: 0;
+
+  list-style-type: none;
+}
+
+#your_way{
+  position: absolute;
+  text-decoration: none;
+  width: 227px;
+
+  padding: 20px 50px 20px 50px;
+  background: #01996D;
+  border-radius: 4px;
+  border: 1px solid #01996D;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+
+  top: 599px;
+  left: 275px;
+
+  text-align: center;
+  white-space: nowrap;
+
+  color: #FFFFFF;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 74px;
+  white-space: normal;
+
+  color: #01996D;
+}
+
+#p_header{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 31px;
+
+  color: #484848;
+  white-space: pre-line;
+}
+
+
+.main_container{
+  position: absolute;
+  width: 1413px;
+  height: 1386px;
+  top:1110px;
+  left: 275px;
+  background-color: #FFFFFF;
+}
+
+.how_it_works{
+  position: absolute;
+  width: 1391px;
+  height: 289px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  align-items: flex-start;
+  list-style-type: none;
+}
+
+#how{
+  position: absolute;
+  width: 141px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 38px;
+  white-space: nowrap;
+
+  color: #424242;
+}
+
+#steps{
+  position: absolute;
+  width: 584px;
+  height: 158px;
+  margin-top: 0;
+  margin-bottom: 0;
+  top: 35px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 79px;
+
+  color: #01996D;
+}
+
+#text{
+  position: absolute;
+  width: 671px;
+  height: 269px;
+  top: 58px;
+  left: 720px;
+
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  white-space: pre-line;
+
+  color: #424242;
+}
+
+.first_mainblock{
+  position: absolute;
+  width: 390px;
+  height: 937px;
+  top: 245px;
+}
+
+.personalize{
+  position: absolute;
+  width: 269px;
+  height: 225px;
+  margin: 0;
+
+
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+
+#zero_one{
+  position:absolute;
+  margin: 0;
+  width: 157px;
+  height: 225px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 225px;
+
+  text-align: center;
+
+  color: rgba(1, 153, 109, 0.2);
+
+}
+
+#pers{
+  position:absolute;
+  width: 181px;
+  height: 45px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+
+  text-align: center;
+
+  left: 88px;
+  top: 135px;
+
+  color: #000000;
+}
+
+#one_text{
+  position: absolute;
+  width: 382px;
+  height: 150px;
+  top: 235px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+
+  white-space: pre-line;
+
+
+
+  color: #424242;
+}
+
+#one_image{
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  top: 445px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/one_image.png");
+  border-radius: 12px;
+
+}
+
+#inside_image{
+  position: absolute;
+  width: 185px;
+  height: 148px;
+  left: 203.75px;
+  top: 670px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/inside_image.png");
+
+}
+
+.second_mainblock{
+  position: absolute;
+  width: 392px;
+  height: 854px;
+
+  top: 532px;
+  left: 485px;
+}
+
+.write_understand{
+  position: absolute;
+  width: 392px;
+  height: 225px;
+
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+
+}
+
+#zero_two{
+  position: absolute;
+  margin: 0;
+  width: 176px;
+  height: 225px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 225px;
+
+  text-align: center;
+
+  color: rgba(1, 153, 109, 0.2);
+
+}
+
+#write{
+  position: absolute;
+  width: 313px;
+  height: 45px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+
+  left: 79px;
+  top: 135px;
+
+  white-space: nowrap;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#two_text{
+  position: absolute;
+  width: 392px;
+  height: 90px;
+  top: 235px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  white-space: pre-line;
+
+
+  color: #424242;
+}
+
+#two_image{
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  top: 362px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/two_image.png");
+  border-radius: 12px;
+}
+
+.third_mainblock{
+  position: absolute;
+  width: 441px;
+  height: 856px;
+
+  top: 299px;
+  left: 979px;
+
+}
+
+.alivio_container{
+  position: absolute;
+  width: 226px;
+  height: 225px;
+
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+
+  left: 7px;
+
+}
+
+#zero_three{
+  position: absolute;
+  margin: 0;
+  width: 175px;
+  height: 225px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 225px;
+
+  text-align: center;
+
+  color: rgba(1, 153, 109, 0.2);
+
+}
+
+#alivio{
+  position: absolute;
+  width: 102px;
+  height: 45px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+
+  left: 124px;
+  top: 135px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#three_text{
+  position: absolute;
+  width: 441px;
+  height: 90px;
+  top: 226px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  white-space: pre-line;
+
+
+  color: #424242;
+}
+
+#three_image{
+  position: absolute;
+  width: 390px;
+  height: 492px;
+  top: 364px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/three_image.png");
+  border-radius: 12px;
+}
+
+.video_container{
+  position: absolute;
+  width: 1920px;
+  height: 922px;
+  left: 0px;
+  top: 2587px;
+  background-color: #245852;
+}
+
+.aside_video{
+  position: absolute;
+  width: 580px;
+  height: 352px;
+  margin: 0;
+  padding-left: 0;
+  list-style-type: none;
+
+  top: 310px;
+  left: 207px;
+
+  color: #FFFFFF;
+}
+
+#video_headline{
+  position: absolute;
+  width: 580px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 79px;
+
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#video_text{
+  position: absolute;
+  width: 550px;
+  height: 39px;
+  top: 191px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 39px;
+
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+#button_text{
+  position: absolute;
+  width: 240px;
+  padding: 20px 50px 20px 50px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+
+  left: 0;
+  top: 287px;
+
+  background: #01996D;
+  border: 1px solid #01996D;
+  border-radius: 4px;
+
+  color: #FFFFFF;
+
+  white-space: nowrap;
+  text-decoration: none;
+  text-align: center;
+}
+
+.video{
+  position: absolute;
+  width: 895.84px;
+  height: 516.11px;
+  left: 818px;
+  top: 229px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/video_image.png");
+  border-radius: 16.3326px;
+}
+
+#vector1_play{
+  position: absolute;
+  width: 80.85px;
+  height: 80.85px;
+  left: 409.95px;
+  top: 216.41px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/SVG/Circle.svg");
+}
+
+#vector2_play{
+  position: absolute;
+  width: 26.95px;
+  height: 33.69px;
+  left: 440.27px;
+  top: 239.99px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/SVG/Triangle.svg");
+}
+
+.pre-footer{
+  position: absolute;
+  width: 1370px;
+  height: 648px;
+  left: 275px;
+  top: 3629px;
+}
+
+.pre-footer_text_block{
+  position: absolute;
+  width: 584px;
+  height: 413px;
+  left: 786px;
+  top: 0;
+
+  margin: 0;
+  padding-left: 0;
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+
+}
+
+#product{
+  width: 136px;
+  height: 39px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 39px;
+
+  color: #424242;
+}
+
+#pre-footer_headline{
+  width: 584px;
+  height: 158px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 79px;
+
+  color: #01996D;
+}
+
+#pre-footer_text{
+  width: 530px;
+  height: 81px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 31px;
+
+  color: #484848;
+
+  white-space: pre-line;
+}
+
+#second_way{
+  width: 227px;
+  margin-top: 60px;
+}
+
+#second_your_way{
+  width: 227px;
+  padding: 20px 50px 20px 50px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+
+  color: #FFFFFF;
+
+  background: #01996D;
+  border: 1px solid #01996D;
+  border-radius: 4px;
+
+  white-space: nowrap;
+  text-decoration: none;
+  text-align: center;
+}
+
+.pre-footer_image_background{
+  position: absolute;
+  width: 638.69px;
+  height: 573.26px;
+  left: 60.68px;
+
+  background: rgba(1, 153, 109, 0.2);
+  border-radius: 18.1125px;
+}
+
+.pre-footer_image{
+  position: absolute;
+  width: 427.6px;
+  height: 641.05px;
+  left: 97.11px;
+  bottom: -67px;
+
+  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/pre-footer_image.png");
+  border-radius: 18.1125px;
+}
+
+.card{
+  position: absolute;
+  width: 296.14px;
+  height: 293.9px;
+  left: 0;
+  bottom: 0;
+
+  background-color: #FFFFFF;
+  border-radius: 3.72971px;
+
+  filter: drop-shadow(0px 3.62249px 18.1125px rgba(165, 165, 165, 0.25));
+}
+
+.customized_block{
+  position: absolute;
+  left: 83.32px;
+  top: 22.64px;
+  width: 131px;
+  height: 133px;
+}
+
+#customized_for{
+  position: absolute;
+  width: 130.54px;
+  height: 23.12px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.49px;
+  line-height: 23px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+#line{
+  position: absolute;
+  width: 110.49px;
+  border-width: 0.745942px;
+  border-color: #000000;
+  top: 30.79px;
+  left: 10px;
+}
+
+.circle{
+  position: absolute;
+  width: 57.44px;
+  height: 57.44px;
+  top:44.5px;
+  left:36.04px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/Ellipse.png");
+  background-color: #FFFFFF;
+
+}
+
+
+.card_image{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/card_image.png");
+  background-repeat: no-repeat;
+}
+
+
+#name{
+  position: absolute;
+  width: 41.03px;
+  height: 18.65px;
+  left: 43.24px;
+  top: 112.3px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11.9351px;
+  line-height: 19px;
+
+  text-align: center;
+
+  color: #000000;
+
+}
+
+.custom_contents{
+  position: absolute;
+  top: 173.9px;
+  left: 61px;
+  width: 180px;
+  height: 90px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  display: flex;
+  flex-direction: column;
+
+  list-style-type: none;
+}
+
+#content{
+  width: 180px;
+  height: 24.96px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15.9292px;
+  line-height: 25px;
+
+  color: #000000;
+
+  white-space: nowrap;
+}
+
+#first_point{
+  width: 117.35px;
+  height: 16.46px;
+
+  margin-top: 15.93px;
+  margin-bottom: 15.93px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.6195px;
+  line-height: 17px;
+
+  text-align: center;
+  white-space: nowrap;
+
+  color: #000000;
+}
+
+#second_point{
+  width: 100.35px;
+  height: 16.46px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.6195px;
+  line-height: 17px;
+
+  text-align: center;
+  white-space: nowrap;
+
+  color: #000000;
+}
+
+.footer{
+  position: absolute;
+  width: 1920px;
+  height: 654px;
+  left: 0px;
+  top: 4445px;
+
+  background-color: #245852;
+}
+
+#logo_white{
+  width: 82px;
+  height: 25px;
+
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 55px;
+
+  color: #FFFFFF;
+}
+
+.footer_content{
+  position: absolute;
+  width: 230px;
+  height: 400px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  top: 95px;
+  left: 275px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+
+  list-style-type: none;
+}
+
+.footer_content a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.point{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #FFFFFF;
+}
+
+.footer_image{
+  position: absolute;
+  width: 626px;
+  height: 417px;
+  top: 95px;
+  left: 650px;
+
+  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/PNG/desk.jpg");
+  background-repeat: no-repeat;
+
+  border-radius: 15px;
+}
+
+.contact_list{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  top: 95px;
+  left: 1475px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+
+  list-style-type: none;
+}
+
+.contact_list a{
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+ a.x2:hover{
+  font-size: 120%;
+}
+
+
+#contacts {
+  height: 25px;
+
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 55px;
+
+  color: #FFFFFF;
+}
+
+.svg_items{
+  position: absolute;
+  list-style-type: none;
+
+  width: 200px;
+  height: 400px;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  top: 95px;
+  left: 1275px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+
+  fill: #FFFFFF;
+
+
+}
