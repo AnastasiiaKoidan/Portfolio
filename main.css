@@ -21,7 +21,7 @@
   width: 79.57px;
    height: 23.04px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/Logo.svg");
+  background-image: url("./Logo.jpg");
   background-repeat: no-repeat;
 }
 
@@ -53,7 +53,6 @@
   list-style-type: none;
 
   display: flex;
-  flex-direction: row;
   gap: 85px;
 }
 
@@ -94,7 +93,7 @@
   padding-top: 175px;
   padding-left: 275px;
   margin: 0 auto;
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/poster_background.svg");
+  background-image: url("./background_poster.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -153,7 +152,8 @@ h1{
 .main_container{
   width: 1413px;
   height: 1386px;
-  margin-top: 75px;
+  padding-top: 75px;
+  /* margin-top: 75px; */
   margin-left: auto;
   margin-right: auto;
   background-color: #FFFFFF;
@@ -221,7 +221,7 @@ h1{
   flex-direction: column;
   width: 390px;
   margin-top: 207px;
-  gap: 85px;
+  gap: 35px;
   padding-left: 0;
 }
 
@@ -295,7 +295,7 @@ h1{
   height: 492px;
   padding-top: 60px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/one_image.svg");
+  background-image: url("./one_image.jpg");
   border-radius: 12px;
 
 }
@@ -307,7 +307,7 @@ h1{
   margin-top: 672px;
   margin-left: 205px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/inside_image.svg");
+  background-image: url("./inside_image.jpg");
 
 }
 
@@ -373,7 +373,6 @@ h1{
 
 #two_text{
   width: 392px;
-  height: 90px;
   padding-top: 235px;
 
   font-family: 'Lato';
@@ -382,7 +381,6 @@ h1{
   font-size: 20px;
   line-height: 30px;
   margin-top: 0;
-  margin-bottom: 137px;
 
   white-space: pre-line;
 
@@ -393,7 +391,7 @@ h1{
 #two_image{
   width: 390px;
   height: 492px;
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/two_image.svg");
+  background-image: url("./two_image.jpg");
   border-radius: 12px;
 }
 
@@ -416,7 +414,6 @@ h1{
 
   display: flex;
   align-items: baseline;
-  flex-direction: row;
 
   left: 7px;
 
@@ -460,7 +457,6 @@ h1{
 
 #three_text{
   width: 441px;
-  height: 90px;
   padding-top: 226px;
 
   font-family: 'Lato';
@@ -469,7 +465,6 @@ h1{
   font-size: 20px;
   line-height: 30px;
   margin-top: 0;
-  margin-bottom: 150px;
 
   white-space: pre-line;
 
@@ -481,7 +476,7 @@ h1{
   width: 390px;
   height: 492px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/three_image.svg");
+  background-image: url("./three_image.jpg");
   border-radius: 12px;
 }
 
@@ -491,7 +486,7 @@ h1{
   height: 922px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 130px;
   background-color: #245852;
 }
 
@@ -533,7 +528,6 @@ h1{
   line-height: 39px;
 
   margin-top: 0;
-  margin-bottom: 20px;
 
 }
 
@@ -565,7 +559,7 @@ h1{
   margin-top: 229px;
   margin-left: 818px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/video_image.png");
+  background-image: url("./video_image.jpg");
   border-radius: 16.3326px;
 }
 
@@ -576,7 +570,7 @@ h1{
   left: 409.95px;
   top: 216.41px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/Vector_circle.svg");
+  background-image: url("./Vector_circle.svg");
 }
 
 #vector2_play{
@@ -586,13 +580,13 @@ h1{
   left: 440.27px;
   top: 239.99px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/Vector_triangle.svg");
+  background-image: url("./Vector_triangle.svg");
 }
 
 .pre-footer{
   width: 1370px;
   height: 648px;
-  margin-top: 120px;
+  padding-top: 120px;
 
   margin-left: auto;
   margin-right: auto;
@@ -699,7 +693,7 @@ h1{
   left: 97.11px;
   bottom: -67px;
 
-  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/pre-footer_image.png");
+  background: url("./pre-footer_image.png");
   border-radius: 18.1125px;
 }
 
@@ -755,7 +749,7 @@ h1{
   top:44.5px;
   left:36.04px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/Ellipse.svg");
+  background-image: url("./Ellipse.svg");
   background-color: #FFFFFF;
 
 }
@@ -766,7 +760,7 @@ h1{
   width: 70px;
   height: 70px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/Сard_image.png");
+  background-image: url("./Сard_image.png");
   background-repeat: no-repeat;
 }
 
@@ -858,12 +852,15 @@ h1{
   color: #000000;
 }
 
+.foot{
+  padding-top: 250px;
+}
+
 .footer{
   width: 1920px;
   height: 654px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 170px;
 
   background-color: #245852;
   display: flex;
@@ -916,7 +913,7 @@ h1{
   height: 417px;
   margin-left: 370px;
 
-  background-image: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/desk_image.jpg");
+  background-image: url("./desk_image.jpg");
   background-repeat: no-repeat;
 
   border-radius: 15px;
@@ -970,26 +967,26 @@ h1{
   width: 32px;
   height: 32px;
 
-  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/phone.svg");
+  background: url("./phone.svg");
 }
 
 #address{
   width: 32px;
   height: 32px;
 
-  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/location.svg");
+  background: url("./location.svg");
 }
 
 #facebook{
   width: 32px;
   height: 32px;
 
-  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/facebook2.svg");
+  background: url("./facebook2.svg");
 }
 
 #instagram{
   width: 32px;
   height: 32px;
 
-  background: url("F:/4 курс 1 семестр/Web/HTML/Portfolio/Images/instagram.svg");
+  background: url("./instagram.svg");
 }
